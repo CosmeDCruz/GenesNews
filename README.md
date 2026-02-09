@@ -3,4 +3,4 @@ Notícias e informações gerais sobre o Genes
 
 &&iBem vindo ao programa Genes&&f
 
-&&iViçosa MG 2026&&f
+&&iVersao mais atual: 1990.2026.2&&f
