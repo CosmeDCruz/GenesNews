@@ -1,10 +1,6 @@
 # GenesNews
 Notícias e informações gerais sobre o Genes
 
-&&i 
+&&iBem vindo ao programa Genes&&f
 
-Bem vindo ao programa Genes
-
-Viçosa MG 2026 
-
-&&f
+&&iViçosa MG 2026&&f
