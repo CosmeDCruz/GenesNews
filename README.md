@@ -5,8 +5,9 @@
 &&iVersao mais atual: 1990.2026.12 - Nova versao no link abaixo:&&f
 &&ihttps://drive.google.com/drive/u/1/folders/1468iejqG53RJJ_cZsRcxwFSoLXedoiJb&&f
 
-&&iEstaremos oferecendo disciplina de Genetica a partir de 3/marco/2026&&f
-&&iModelos Biometricos: Segundas feiras das 8 - 11.30&&f
-&&iGentica Quantitativa: Quintas feiras das 8 - 11&&f
-&&iDivulgaremos o link em breve&&f
+&&iVersao do Genes de 28/03/20266&&f
+&&iversao: 1990.2026.29&&f
+&&iPasta genesexe: 949 arquivos&&f
+&&iPasta dados: 3027 arquivos&&f
+&&iArquivos executaveis: 753&&f
 
